@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Some of my skills include programming in **JavaScript** and **Python**.
+I also read the book, *Using Github*
